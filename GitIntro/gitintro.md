@@ -6,7 +6,7 @@
 
 **Last Updated**: Sunday, 10 September 2017 
 
-By: **[Lyndon Coghill](@lcoghill)**
+By: **[Lyndon Coghill](https://github.com/lcoghill)**
 
 ***
 
