@@ -251,14 +251,14 @@ Let's go to Github and see if our project is there and make some changes to it. 
 
 If everything worked, you should be able to see your file under the darwin project on Github.com, by visiting [https://github.com/username/darwin/](https://github.com/username/darwin/) and it should look something like the image below.
 
-![](/static/github_commit.png?raw=true) 
+![](../static/github_commit.png?raw=true) 
 
 Now let's go ahead and edit our file online. 
 Click the file name darwin.txt You should see a page showing you the contents of the file.
 Click on the small pencil icon next to History above the contents window to edit the file.
 You will be taken to a page where you can make changes to your file, save them and log a commit message like below. 
 
-![](/static/github_edit.png?raw=true) 
+![](../static/github_edit.png?raw=true) 
 
 Let's go ahead and add a second line to our file:  
 1. "On the Origin of Species" or something similar.   
