@@ -1,12 +1,12 @@
 ### Very Brief Introduction to Command Line Git Version Control
 
-#### Louisiana State University
-
 ***
 
 **Version**: 0.3.2
 
 **Last Updated**: Sunday, 10 September 2017 
+
+By: **[Lyndon Coghill](@lcoghill)**
 
 ***
 
@@ -214,11 +214,11 @@ Step By Step:
 1. Sign into your Github account.  
 2. Click on the green "New Repository" button on the right hand side of the page. 
  
-![](/static/new_repo.png?raw=true) 
+![](static/new_repo.png?raw=true) 
 
 You will be presented with a page that contains several options.  
 
-![](/static/github_project.png?raw=true) 
+![](static/github_project.png?raw=true) 
 
 
 Let's go through each one.  
@@ -251,14 +251,14 @@ Let's go to Github and see if our project is there and make some changes to it. 
 
 If everything worked, you should be able to see your file under the darwin project on Github.com, by visiting [https://github.com/username/darwin/](https://github.com/username/darwin/) and it should look something like the image below.
 
-![](../static/github_commit.png?raw=true) 
+![](static/github_commit.png?raw=true) 
 
 Now let's go ahead and edit our file online. 
 Click the file name darwin.txt You should see a page showing you the contents of the file.
 Click on the small pencil icon next to History above the contents window to edit the file.
 You will be taken to a page where you can make changes to your file, save them and log a commit message like below. 
 
-![](../static/github_edit.png?raw=true) 
+![](static/github_edit.png?raw=true) 
 
 Let's go ahead and add a second line to our file:  
 1. "On the Origin of Species" or something similar.   
@@ -307,7 +307,7 @@ this command reverses all changes since the last commit. If we check darwin.txt 
 #### Git Branches
 One final introductory topic I would like to cover is the idea of branches. Branches, as the name suggests, are different copies of the same Git repository where changes made to one copy don't affect the primary copy. You may have noticed we have been using the parameter "master" when we did pull or push commands. Master is the main branch of any repository. You can have other branches, work with them, push and pull them, and it will never change the master branch until you **merge** them. The graphic below, from the book [Pro Git](http://git-scm.com/book/en/v2), illustrates the idea of branching nicely:
 
-![](/static/advance-master.png?raw=true) 
+![](static/advance-master.png?raw=true) 
 
 
 Let's work through a very simple example. 
